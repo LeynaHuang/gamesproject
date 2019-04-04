@@ -1,0 +1,15 @@
+C:\Users\Lilxl\source\repos\Games\Games\bin\Debug\Games.exe.config
+C:\Users\Lilxl\source\repos\Games\Games\bin\Debug\Games.exe
+C:\Users\Lilxl\source\repos\Games\Games\bin\Debug\Games.pdb
+C:\Users\Lilxl\source\repos\Games\Games\bin\Debug\Games.xml
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.vbprojAssemblyReference.cache
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.GameMenu.resources
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.TicTacToe.resources
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.Resources.resources
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.vbproj.GenerateResource.cache
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.vbproj.CoreCompileInputs.cache
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.exe
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.xml
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.pdb
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.TicTacToeChoice.resources
+C:\Users\Lilxl\source\repos\Games\Games\obj\Debug\Games.TicTacToeAI.resources
